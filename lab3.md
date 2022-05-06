@@ -61,3 +61,5 @@ Run pip3 to install/upgrade packages, update the IoT repository, and run Python 
 ![nlim2rasberrypi (raspberrypinlim2) - VNC Viewer 5_5_2022 10_42_50 PM](https://user-images.githubusercontent.com/78889244/167058246-afa0f8d2-cd3f-4a53-8e96-0aa15ed16457.png)
 ![nlim2rasberrypi (raspberrypinlim2) - VNC Viewer 5_5_2022 10_43_04 PM](https://user-images.githubusercontent.com/78889244/167058251-4c90be72-0188-4e9c-bcb8-1677b4785bc3.png)
 
+Run ifconfig on Raspberry Pi (macOS or Linux) or ipconfig on Windows to find IP address
+![nlim2rasberrypi (raspberrypinlim2) - VNC Viewer 5_5_2022 10_44_23 PM](https://user-images.githubusercontent.com/78889244/167058361-f66c9ac6-9930-4e38-953d-2d5e1e22c7a2.png)
