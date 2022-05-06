@@ -1,7 +1,7 @@
 # [Lab 10](https://github.com/kevinwlu/iot/tree/master/lesson10)
 ### Lab 10
 
-Run hash_value.py twice and compare results
+Hash function with randomization
 ![nlim2rasberrypi (raspberrypinlim2) - VNC Viewer 5_6_2022 12_28_02 AM](https://user-images.githubusercontent.com/78889244/167067097-dde64817-8efa-4105-ad8f-785e469c64a7.png)
 
 
