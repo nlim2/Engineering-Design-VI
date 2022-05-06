@@ -33,5 +33,5 @@ Am receiving feedback in the cmd window but am getting "404 Not Found" on the we
 
 Terminal 2: Run run_app.py (Press Ctrl+C to quit)
 Receiving this error
-![pi@raspberrypinlim2_ ~_python_blockchain_app 5_6_2022 1_09_56 AM](https://user-images.githubusercontent.com/78889244/167070799-6eb0d4ef-2d00-4ab1-beec-ca637fa2bb61.png)
-![nlim2rasberrypi (raspberrypinlim2) - VNC Viewer 5_6_2022 1_09_57 AM](https://user-images.githubusercontent.com/78889244/167070800-88ed75b1-67d0-4193-a4be-42e68c96889d.png)
+![pi@raspberrypinlim2_ ~_python_blockchain_app 5_6_2022 1_14_29 AM](https://user-images.githubusercontent.com/78889244/167071171-417dbe7d-76b8-4b02-910a-1afccdd29b91.png)
+![nlim2rasberrypi (raspberrypinlim2) - VNC Viewer 5_6_2022 1_14_31 AM](https://user-images.githubusercontent.com/78889244/167071174-d8547f18-7244-43f8-9e9a-dea358305a48.png)
