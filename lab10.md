@@ -6,7 +6,6 @@ Run hash_value.py twice and compare results
 
 
 SHA-2 Secure Hash Algorithm
-![nlim2rasberrypi (raspberrypinlim2) - VNC Viewer 5_6_2022 12_35_51 AM](https://user-images.githubusercontent.com/78889244/167067806-d1c1381b-0f74-4307-aeed-a7e0a7c9e567.png)
 ![nlim2rasberrypi (raspberrypinlim2) - VNC Viewer 5_6_2022 12_29_42 AM](https://user-images.githubusercontent.com/78889244/167067250-c08a2c7b-1552-4965-bedd-6c6055cd21a2.png)
 
 
@@ -15,6 +14,7 @@ Build the tiniest blockchain in less than 50 lines of Python by Gerald Nash (201
 
 Let’s Make the Tiniest Blockchain Bigger Part 2: With More Lines of Python by Gerald Nash (2017-07-23)
 ![nlim2rasberrypi (raspberrypinlim2) - VNC Viewer 5_6_2022 12_31_54 AM](https://user-images.githubusercontent.com/78889244/167067435-6aec76cf-4088-4b7b-bdee-732f9446242e.png)
+![nlim2rasberrypi (raspberrypinlim2) - VNC Viewer 5_6_2022 12_35_51 AM](https://user-images.githubusercontent.com/78889244/167067806-d1c1381b-0f74-4307-aeed-a7e0a7c9e567.png)
 ![nlim2rasberrypi (raspberrypinlim2) - VNC Viewer 5_6_2022 12_34_03 AM](https://user-images.githubusercontent.com/78889244/167067616-0f130808-cf87-43b2-b55b-81d75d0dbab9.png)
 
 
