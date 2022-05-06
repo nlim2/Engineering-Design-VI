@@ -22,3 +22,6 @@ Terminal 2: Create a transaction and mine a new block at http://127.0.0.1:5000/m
 Failed
 ![nlim2rasberrypi (raspberrypinlim2) - VNC Viewer 5_6_2022 12_38_34 AM](https://user-images.githubusercontent.com/78889244/167068031-d796a653-5fed-47ad-a277-b0dbdd4da6d5.png)
 
+
+Terminal 1: Uncomment the last line (Line 257) of node_server.py (or search for port=8000) and run (Press Ctrl+C to quit)
+![nlim2rasberrypi (raspberrypinlim2) - VNC Viewer 5_6_2022 12_43_39 AM](https://user-images.githubusercontent.com/78889244/167068529-2db17358-ae36-4cc0-8c9d-678a63ed554e.png)
