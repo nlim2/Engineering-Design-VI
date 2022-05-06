@@ -25,3 +25,13 @@ Terminal 2: Create a transaction and mine a new block at http://127.0.0.1:5000/m
 
 Terminal 1: Uncomment the last line (Line 257) of node_server.py (or search for port=8000) and run (Press Ctrl+C to quit)
 ![nlim2rasberrypi (raspberrypinlim2) - VNC Viewer 5_6_2022 12_43_39 AM](https://user-images.githubusercontent.com/78889244/167068529-2db17358-ae36-4cc0-8c9d-678a63ed554e.png)
+
+Am receiving feedback in the cmd window but am getting "404 Not Found" on the webpage itself.
+![pi@raspberrypinlim2_ ~_python_blockchain_app 5_6_2022 1_07_43 AM](https://user-images.githubusercontent.com/78889244/167070631-dca014b2-e5a3-4446-991c-af15f76d11c3.png)
+![nlim2rasberrypi (raspberrypinlim2) - VNC Viewer 5_6_2022 1_07_42 AM](https://user-images.githubusercontent.com/78889244/167070633-51a5c42a-7c77-49d3-87de-edb147d4a778.png)
+
+
+Terminal 2: Run run_app.py (Press Ctrl+C to quit)
+Receiving this error
+![pi@raspberrypinlim2_ ~_python_blockchain_app 5_6_2022 1_09_56 AM](https://user-images.githubusercontent.com/78889244/167070799-6eb0d4ef-2d00-4ab1-beec-ca637fa2bb61.png)
+![nlim2rasberrypi (raspberrypinlim2) - VNC Viewer 5_6_2022 1_09_57 AM](https://user-images.githubusercontent.com/78889244/167070800-88ed75b1-67d0-4193-a4be-42e68c96889d.png)
