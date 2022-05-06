@@ -15,12 +15,12 @@ Build the tiniest blockchain in less than 50 lines of Python by Gerald Nash (201
 Let’s Make the Tiniest Blockchain Bigger Part 2: With More Lines of Python by Gerald Nash (2017-07-23)
 ![nlim2rasberrypi (raspberrypinlim2) - VNC Viewer 5_6_2022 12_31_54 AM](https://user-images.githubusercontent.com/78889244/167067435-6aec76cf-4088-4b7b-bdee-732f9446242e.png)
 ![nlim2rasberrypi (raspberrypinlim2) - VNC Viewer 5_6_2022 12_35_51 AM](https://user-images.githubusercontent.com/78889244/167067806-d1c1381b-0f74-4307-aeed-a7e0a7c9e567.png)
-![nlim2rasberrypi (raspberrypinlim2) - VNC Viewer 5_6_2022 12_34_03 AM](https://user-images.githubusercontent.com/78889244/167067616-0f130808-cf87-43b2-b55b-81d75d0dbab9.png)
 
 
 Terminal 2: Create a transaction and mine a new block at http://127.0.0.1:5000/mine \
-Failed
-![nlim2rasberrypi (raspberrypinlim2) - VNC Viewer 5_6_2022 12_38_34 AM](https://user-images.githubusercontent.com/78889244/167068031-d796a653-5fed-47ad-a277-b0dbdd4da6d5.png)
+![pi@raspberrypinlim2_ ~ 5_6_2022 12_57_11 AM](https://user-images.githubusercontent.com/78889244/167069739-ce0106ee-deeb-46c3-805c-046447a71ee7.png)
+![nlim2rasberrypi (raspberrypinlim2) - VNC Viewer 5_6_2022 12_57_29 AM](https://user-images.githubusercontent.com/78889244/167069747-91c1fe44-8be0-479f-a88b-319a06588170.png)
+
 
 
 Terminal 1: Uncomment the last line (Line 257) of node_server.py (or search for port=8000) and run (Press Ctrl+C to quit)
