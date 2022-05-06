@@ -18,7 +18,7 @@ Let’s Make the Tiniest Blockchain Bigger Part 2: With More Lines of Python by 
 ![nlim2rasberrypi (raspberrypinlim2) - VNC Viewer 5_6_2022 12_34_03 AM](https://user-images.githubusercontent.com/78889244/167067616-0f130808-cf87-43b2-b55b-81d75d0dbab9.png)
 
 
-Terminal 2: Create a transaction and mine a new block at http://127.0.0.1:5000/mine
+Terminal 2: Create a transaction and mine a new block at http://127.0.0.1:5000/mine \
 Failed
 ![nlim2rasberrypi (raspberrypinlim2) - VNC Viewer 5_6_2022 12_38_34 AM](https://user-images.githubusercontent.com/78889244/167068031-d796a653-5fed-47ad-a277-b0dbdd4da6d5.png)
 
